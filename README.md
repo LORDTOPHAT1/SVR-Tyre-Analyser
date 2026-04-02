@@ -57,5 +57,6 @@ Full patch notes: [SVR-Tyre-Analyser-Patch-Notes.md](./SVR-Tyre-Analyser-Patch-N
 
 ---
 
-*For internal SVR Racing use. Broader release planned for a future version.*
+*For internal SVR Racing use. Broader release planned for a future version.* 
+
 
